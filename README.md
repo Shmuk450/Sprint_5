@@ -12,3 +12,5 @@
 
 ```bash
 pip install -r requirements.txt
+
+Добавлено для pull request
